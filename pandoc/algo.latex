@@ -375,8 +375,8 @@ $if(logo)$
 $endif$
 $endif$
 
-\title{\vspace{50mm} \huge Huazhong University of Science and Technology \\[20pt]}
-\author{Toy ASM Truck \\[10pt] Your School}
+\title{\vspace{50mm} \huge 神秘模板库 \\[20pt]}
+\author{Toy ASM Truck \\[10pt] Huazhong University of Science and Technology}
 \date{\today}
 
 
